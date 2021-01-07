@@ -33,25 +33,25 @@ The project aims at enhancing real-time underwater images using python.
 
 
 # Reference papers:
-
 Underwater Image Color Restoration
 
-DCP: Single Image Haze Removal Using Dark Channel Prior (2011)
-GBdehazingRCorrection: Single underwater image restoration by blue-green channels dehazing and red channel correction (2016)
-IBLA: Underwater Image Restoration Based on Image Blurriness and Light Absorption (2017)
-LowComplexityDCP: Low Complexity Underwater Image Enhancement Based on Dark Channel Prior (2011)
-MIP: Initial results in underwater single image dehazing (2010)
-NewOpticalModel: Single underwater image enhancement with a new optical model (2013)
-RoWS: Removal of water scattering (2010)
-UDCP: Transmission Estimation in Underwater Single Images (2013)
-ULAP: A Rapid Scene Depth Estimation Model Based on Underwater Light Attenuation Prior for Underwater Image Restoration (2018)
+1) DCP: Single Image Haze Removal Using Dark Channel Prior (2011)
+2) GBdehazingRCorrection: Single underwater image restoration by blue-green channels dehazing and red channel correction (2016)
+3) IBLA: Underwater Image Restoration Based on Image Blurriness and Light Absorption (2017)
+4) LowComplexityDCP: Low Complexity Underwater Image Enhancement Based on Dark Channel Prior (2011)
+5) MIP: Initial results in underwater single image dehazing (2010)
+6) NewOpticalModel: Single underwater image enhancement with a new optical model (2013)
+7) RoWS: Removal of water scattering (2010)
+8) UDCP: Transmission Estimation in Underwater Single Images (2013)
+9) ULAP: A Rapid Scene Depth Estimation Model Based on Underwater Light Attenuation Prior for Underwater Image Restoration (2018)
+
 Underwater Image Enhancement
 
-CLAHE: Contrast limited adaptive histogram equalization (1994)
-Fusion-Matlab: Enhancing underwater images and videos by fusion (2012)
-GC: Gamma Correction
-HE: Image enhancement by histogram transformation (2011)
-ICM: Underwater Image Enhancement Using an Integrated Colour Model (2007)
-RGHS: Shallow-Water Image Enhancement Using Relative Global Histogram Stretching Based on Adaptive Parameter Acquisition (2018)
-RayleighDistribution: Underwater image quality enhancement through composition of dual-intensity images and Rayleigh-stretching (2014)
-UCM: Enhancing the low quality images using Unsupervised Colour Correction Method (2010)
+10) CLAHE: Contrast limited adaptive histogram equalization (1994)
+11) Fusion-Matlab: Enhancing underwater images and videos by fusion (2012)
+12) GC: Gamma Correction
+13) HE: Image enhancement by histogram transformation (2011)
+14) ICM: Underwater Image Enhancement Using an Integrated Colour Model (2007)
+15) RGHS: Shallow-Water Image Enhancement Using Relative Global Histogram Stretching Based on Adaptive Parameter Acquisition (2018)
+16) RayleighDistribution: Underwater image quality enhancement through composition of dual-intensity images and Rayleigh-stretching (2014)
+17) UCM: Enhancing the low quality images using Unsupervised Colour Correction Method (2010)
